@@ -1,0 +1,11 @@
+{
+  "yontem": "TF-IDF (1-2 gram, sublinear_tf) + kosinüs benzerliği, leave-one-out",
+  "esik": 0.3,
+  "top_k": 5,
+  "parca_sayisi": 7461,
+  "responses_satir": 23843,
+  "kaynak_parcasi_0_olan": 614,
+  "is_empty_true": 22,
+  "generation_ms_medyan": 0.987,
+  "not": "generation_ms, yerel bilgisayarda getirme adımının ölçülen süresidir; dil modeli yanıt üretim süresi değildir."
+}
