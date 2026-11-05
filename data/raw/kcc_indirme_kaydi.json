@@ -1,0 +1,45 @@
+{
+  "kaynak": "https://huggingface.co/datasets/Vrushali/MH",
+  "asil_kaynak": "data.gov.in - Kisan Call Centre (KCC) farmer queries (GODL-India)",
+  "yontem": "Parquet dosyalari indirildi, ilce ve yil yerelde suzuldu",
+  "parquet_dosyalari": [
+    "https://huggingface.co/datasets/Vrushali/MH/resolve/refs%2Fconvert%2Fparquet/default/train/0000.parquet",
+    "https://huggingface.co/datasets/Vrushali/MH/resolve/refs%2Fconvert%2Fparquet/default/train/0001.parquet"
+  ],
+  "ilce": "NASIK",
+  "yil": 2018,
+  "ilcedeki_toplam_satir": 237717,
+  "ilce_yil_dagilimi": {
+    "2007": 3,
+    "2008": 10,
+    "2009": 2764,
+    "2010": 3613,
+    "2011": 2238,
+    "2012": 7119,
+    "2013": 32166,
+    "2014": 36996,
+    "2015": 51418,
+    "2016": 42292,
+    "2017": 35255,
+    "2018": 23843
+  },
+  "indirilen_satir": 23843,
+  "kolonlar": [
+    "Unnamed: 0",
+    "BlockName",
+    "Category",
+    "Year",
+    "Month",
+    "Day",
+    "Crop",
+    "DistrictName",
+    "QueryType",
+    "Season",
+    "Sector",
+    "StateName",
+    "QueryText",
+    "KccAns"
+  ],
+  "indirme_zamani_utc": "2026-11-05T17:39:49+00:00",
+  "dosya": "data/raw/kcc_nasik_2018.csv"
+}
