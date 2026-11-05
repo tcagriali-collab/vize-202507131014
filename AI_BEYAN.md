@@ -20,7 +20,6 @@ Bu çalışmada kullandığım yapay zekâ araçlarını ve ne için kullandığ
 - Kura numarası konusunu öğretim elemanına sordum.
 - Sorguları kendi PostgreSQL'imde çalıştırıp sonuçları ve yorumları kontrol ettim.
 - Repoyu GitHub'da açtım, commit'leri ve PR'ı kendim oluşturdum.
-- [Kendi değiştirdiğin / eklediğin bir şey varsa buraya yaz; yoksa bu satırı sil.]
 
 ## Veride yapay zekâ kullanımı
 
