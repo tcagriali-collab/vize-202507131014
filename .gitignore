@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+calistir.bat
+calistir_log.txt
+tani.bat
+tani_log.txt
+scripts/00_tani.py
+data/raw/_parquet/
+data/raw/openmeteo_2019.json
+github_yukle.bat
+github_log.txt
